@@ -9,6 +9,6 @@
     Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
 
     <Grid>
-      <TextBlock Text="Hello, Uno Plattform!" Margin="20,40" FontSize="30" />
+        <TextBlock Text="Hello, Uno Plattform!" Margin="20,40" FontSize="30" />
     </Grid>
 </Page>
